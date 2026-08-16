@@ -1,8 +1,0 @@
-streamlit
-sentence-transformers
-chromadb
-pypdf
-langchain-text-splitters
-pandas
-python-dotenv
-bcrypt
